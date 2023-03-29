@@ -1,0 +1,47 @@
+// vim:ts=4:sw=4:et
+{
+    "border": "normal",
+    "current_border_width": 2,
+    "floating": "auto_off",
+    "geometry": {
+       "height": 1371,
+       "width": 2538,
+       "x": 0,
+       "y": 0
+    },
+    "name": "(4148) Kitty Is A Fast And Feature Rich Terminal Emulator - YouTube — Mozilla Firefox",
+    "percent": 0.8,
+    "swallows": [
+       {
+        "class": "^Firefox$",
+        "instance": "^Navigator$",
+       // "title": "^\\(4148\\)\\ Kitty\\ Is\\ A\\ Fast\\ And\\ Feature\\ Rich\\ Terminal\\ Emulator\\ \\-\\ YouTube\\ \\—\\ Mozilla\\ Firefox$",
+        "window_role": "^browser$",
+        "transient_for": "^$"
+       }
+    ],
+    "type": "con"
+}
+
+{
+    "border": "none",
+    "current_border_width": 2,
+    "floating": "auto_off",
+    "geometry": {
+       "height": 1558,
+       "width": 3822,
+       "x": 0,
+       "y": 0
+    },
+    "name": "mudrii@p53-nixos fish /home/mudrii",
+    "percent": 0.2,
+    "swallows": [
+       {
+        "class": "^kitty$",
+        "instance": "^kitty$",
+       // "title": "^mudrii\\@p53\\-nixos\\ fish\\ \\/home\\/mudrii$"
+       "transient_for": "^$"
+       }
+    ],
+    "type": "con"
+}
